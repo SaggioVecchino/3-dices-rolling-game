@@ -1,4 +1,4 @@
-# script.py — Optimal strategy for a 3-dice "reroll" game
+# Optimal strategy for a 3-dice "reroll" game
 
 ## Purpose
 
